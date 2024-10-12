@@ -3,8 +3,8 @@ package com.gxyan.vo;
 import lombok.Data;
 
 /**
- * @author gxyan
- * @date 2019/1/10 9:55
+ *  @author liyu
+ * @date 2025/1/7
  */
 @Data
 public class OrderQuery {

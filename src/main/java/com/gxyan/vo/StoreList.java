@@ -10,8 +10,8 @@ import java.util.Date;
 
 /**
  * 库存表单
- * @author gxyan
- * @date 2019/1/5 9:17
+ *  @author liyu
+ * @date 2025/1/6 
  */
 @Getter
 @Setter

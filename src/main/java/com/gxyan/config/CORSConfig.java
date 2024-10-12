@@ -7,8 +7,8 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import static org.springframework.web.cors.CorsConfiguration.ALL;
 
 /**
- * @author gxyan
- * @date 2018/12/27 17:39
+ *  @author liyu
+ * @date 2024/12/25
  */
 @Configuration
 public class CORSConfig implements WebMvcConfigurer {

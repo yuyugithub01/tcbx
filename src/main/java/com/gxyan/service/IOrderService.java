@@ -7,8 +7,8 @@ import com.gxyan.vo.OrderQuery;
 import com.gxyan.vo.OrderVo;
 
 /**
- * @author gxyan
- * @date 2019/1/2 21:16
+ *  @author liyu
+ * @date 2025/1/2 
  */
 public interface IOrderService {
     ServerResponse addOrder(OrderVo orderVo);

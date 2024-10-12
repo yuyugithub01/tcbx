@@ -5,8 +5,8 @@ import lombok.Data;
 import java.math.BigDecimal;
 
 /**
- * @author gxyan
- * @date 2019/1/10 11:54
+ *  @author liyu
+ * @date 2025/1/7
  */
 @Data
 public class Details {

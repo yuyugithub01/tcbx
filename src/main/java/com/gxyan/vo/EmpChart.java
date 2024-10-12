@@ -5,8 +5,8 @@ import lombok.Data;
 import java.math.BigDecimal;
 
 /**
- * @author gxyan
- * @date 2019/1/13 11:34
+ *  @author liyu
+ * @date 2025/1/11
  */
 @Data
 public class EmpChart {

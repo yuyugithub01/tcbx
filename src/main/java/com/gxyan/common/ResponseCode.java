@@ -1,8 +1,8 @@
 package com.gxyan.common;
 
 /**
- * @author gxyan
- * @date 2018/9/28 17:37
+ *  @author liyu
+ * @date 2024/9/26
  */
 public enum ResponseCode {
     SUCCESS(20000,"SUCCESS"),

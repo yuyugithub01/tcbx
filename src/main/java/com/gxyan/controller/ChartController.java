@@ -16,8 +16,8 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * @author gxyan
- * @date 2019/1/12 20:54
+ *  @author liyu
+ * @date 2025/1/10 
  */
 @RestController
 @RequestMapping("chart")

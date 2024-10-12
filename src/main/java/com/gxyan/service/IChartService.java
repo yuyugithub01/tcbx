@@ -5,8 +5,8 @@ import com.gxyan.common.ServerResponse;
 import java.util.Date;
 
 /**
- * @author gxyan
- * @date 2019/1/13 9:18
+ *  @author liyu
+ * @date 2025/1/11
  */
 public interface IChartService {
 

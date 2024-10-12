@@ -7,8 +7,8 @@ import java.io.Serializable;
 
 /**
  * JsonSerialize.Inclusion.NON_NULL保证序列化json的时候,如果是null的对象,key也会消失
- * @author gxyan
- * @date 2018/9/28 17:31
+ *  @author liyu
+ * @date 2024/9/26
  */
 @JsonInclude(JsonInclude.Include.NON_NULL)
 public class ServerResponse<T> implements Serializable {

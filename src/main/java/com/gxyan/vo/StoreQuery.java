@@ -4,8 +4,8 @@ import lombok.*;
 
 /**
  * 接收库存的getList()请求
- * @author gxyan
- * @date 2019/1/4 20:07
+ *  @author liyu
+ * @date 2025/1/3
  */
 @Getter
 @Setter

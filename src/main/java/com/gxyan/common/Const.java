@@ -1,8 +1,8 @@
 package com.gxyan.common;
 
 /**
- * @author gxyan
- * @date 2018/12/27 13:43
+ *  @author liyu
+ * @date 2024/12/25
  */
 public class Const {
     public static final String CURRENT_USER = "currentUser";

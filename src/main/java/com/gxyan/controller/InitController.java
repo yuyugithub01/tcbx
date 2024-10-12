@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * 获取brand和series信息
- * @author gxyan
- * @date 2019/1/3 12:40
+ *  @author liyu
+ * @date 2025/1/3
  */
 @RestController
 @RequestMapping("init")

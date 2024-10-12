@@ -5,8 +5,8 @@ import com.gxyan.pojo.Customer;
 import com.gxyan.vo.CustomerQuery;
 
 /**
- * @author gxyan
- * @date 2019/1/6 10:05
+ *  @author liyu
+ * @date 2025/1/6
  */
 public interface ICustomerService {
     ServerResponse addCustomer(Customer customer);

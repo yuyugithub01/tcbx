@@ -5,8 +5,8 @@ import com.gxyan.pojo.Car;
 import com.gxyan.vo.StoreQuery;
 
 /**
- * @author gxyan
- * @date 2019/1/3 10:07
+ *  @author liyu
+ * @date 2025/1/3
  */
 public interface IStoreService {
 
