@@ -29,7 +29,9 @@ router.beforeEach((to, from, next) => {
           const role = res.data.data.role // note: roles must be a array! such as: ['editor','develop']
           // const roles = this.$store.getters.roles // note: roles must be a array! such as: ['editor','develop']
           let roles
-          if (role === '1') {
+          if (role === '2') {
+            roles = ['user']
+          } else if (role === '1') {
             roles = ['editor']
           } else if (role === '0') {
             roles = ['admin']

@@ -48,7 +48,9 @@ const user = {
     },
     SET_ROLES: (state, roles) => {
       // state.roles = roles
-      if (roles === '1') {
+      if (roles === '2') {
+        state.roles = ['user']
+      } else if (roles === '1') {
         state.roles = ['editor']
       } else if (roles === '0') {
         state.roles = ['admin']

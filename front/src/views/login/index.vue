@@ -12,6 +12,7 @@
           <el-dropdown-menu slot="dropdown">
             <el-dropdown-item :disabled="loginForm.roles==='经理'" command="经理">经理</el-dropdown-item>
             <el-dropdown-item :disabled="loginForm.roles==='销售'" command="销售">销售</el-dropdown-item>
+            <el-dropdown-item :disabled="loginForm.roles==='用户'" command="用户">用户</el-dropdown-item>
           </el-dropdown-menu>
         </el-dropdown>
       </div>
